@@ -10,17 +10,11 @@ alert(
   const name = prompt(
     "Please enter your name:"
     )
-    
-    const lastName = prompt (
-        "Please enter your last name:"
-    )
-
 
   alert(
     `Hello ${name}! Let's order some food!`
     )
   
-    alert(`Tjena ${name} ${lastName} hur är läget?`)
   // Step 2 - Food choice
   // Your code goes here
  
